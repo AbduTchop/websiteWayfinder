@@ -1,1 +1,1 @@
-# https://abdutchop.github.io/websiteWayfinder/
+# https://abdutchop.github.io/websiteWayfinder/wayfinder
